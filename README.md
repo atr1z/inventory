@@ -11,8 +11,6 @@ Este es un sistema de control de inventario basado en web para repuestos automot
 - Rutas protegidas según roles de usuario
 - Experiencia similar a una SPA (Single Page Application)
 - Carga de archivos para facturas e imágenes
-- Notificaciones por correo electrónico
-- Funcionalidad de exportación (Excel/PDF)
 
 ## Requisitos
 - PHP 8.1 o superior
